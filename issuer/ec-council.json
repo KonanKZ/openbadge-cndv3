@@ -1,8 +1,9 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://ВАШ_USERNAME.github.io/openbadge-cndv3/issuer/ec-council.json",
+  "id": "https://KonanKZ.github.io/openbadge-cndv3/issuer/ec-council.json",
   "name": "EC-Council",
   "url": "https://www.eccouncil.org",
+  "email": "contact@eccouncil.org",
   "description": "EC-Council is a global cybersecurity education and training organization."
 }

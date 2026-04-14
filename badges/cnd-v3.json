@@ -1,0 +1,11 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://konanxz.github.io/openbadge-cndv3/badges/cnd-v3.json",
+  "name": "Certified Network Defender v3 (Attendance)",
+  "description": "Certificate of attendance for completing the Certified Network Defender v3 course at an EC-Council accredited training center (STEX LLP).",
+  "criteria": {
+    "narrative": "Attendance and completion of the Certified Network Defender v3 course."
+  },
+  "issuer": "https://konanxz.github.io/openbadge-cndv3/issuer/ec-council.json"
+}

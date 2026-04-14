@@ -3,8 +3,10 @@
   "type": "Assertion",
   "id": "https://konankz.github.io/openbadge-cndv3/assertions/768673.json",
   "recipient": {
-    "type": "name",
-    "identity": "Ivan Konanykhin"
+    "type": "email",
+    "hashed": true,
+    "identity": "sha256$REPLACE_WITH_HASH",
+    "display": "Ivan Konanykhin"
   },
   "badge": "https://konankz.github.io/openbadge-cndv3/badges/cnd-v3.json",
   "verification": {

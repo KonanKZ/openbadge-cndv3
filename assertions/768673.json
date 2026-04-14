@@ -1,0 +1,20 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://konanxz.github.io/openbadge-cndv3/assertions/768673.json",
+  "recipient": {
+    "type": "name",
+    "identity": "Ivan Konanykhin"
+  },
+  "badge": "https://konanxz.github.io/openbadge-cndv3/badges/cnd-v3.json",
+  "verification": {
+    "type": "Hosted"
+  },
+  "issuedOn": "2025-09-26",
+  "evidence": [
+    {
+      "id": "https://aspen.eccouncil.org/VerifyEval",
+      "narrative": "EC-Council Certificate of Attendance. Certificate Number 768673. Training center: STEX LLP."
+    }
+  ]
+}

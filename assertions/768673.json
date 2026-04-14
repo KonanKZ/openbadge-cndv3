@@ -1,12 +1,12 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://konanxz.github.io/openbadge-cndv3/assertions/768673.json",
+  "id": "https://KonanKZ.github.io/openbadge-cndv3/assertions/768673.json",
   "recipient": {
     "type": "name",
     "identity": "Ivan Konanykhin"
   },
-  "badge": "https://konanxz.github.io/openbadge-cndv3/badges/cnd-v3.json",
+  "badge": "https://KonanKZ.github.io/openbadge-cndv3/badges/cnd-v3.json",
   "verification": {
     "type": "Hosted"
   },
